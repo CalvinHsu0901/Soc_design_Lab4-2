@@ -9,3 +9,6 @@ source run_sim
 
 ## Run Simulation:  
 ![/run_sim](/run_sim.png) 
+
+## wb2axi block design:  
+![/wb2axi_bd](/wb2axi_bd.jpg) 
